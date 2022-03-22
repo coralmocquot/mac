@@ -2,7 +2,7 @@
 
 # Manfred Awesomic CV
 
-The MAC (or Manfred Awesomic CV) is a(nother) naive attempt to create **a standard open source format to define and share CVs**. The format is defined as a JSON Schema to validate CVs stored as JSON files.
+The MAC (or Manfred Awesomic CV) is a (nother) naive attempt to create **a standard open source format to define and share CVs**. The format is defined as a JSON Schema to validate CVs stored as JSON files.
  
  <a href='https://github.com/getmanfred/mac/releases'>
   <img src='https://img.shields.io/github/v/release/getmanfred/mac?color=%23FDD835&label=version&style=for-the-badge&logo=JSON'>
@@ -27,11 +27,11 @@ The MAC (or Manfred Awesomic CV) is a(nother) naive attempt to create **a standa
   
 </div>  
 
-## 🥘 Why use it
+## 🥘 Why using it?
 
-There are A LOT of CV formats, and some of them are a nice try to define a universal CV format, but we think that **a CV should include not only what candidates are or know but also what they are interested in and what they want to become**.
+There are A LOT of CV formats, and some of them are a nice attempt to define a universal CV format, but we think that **a CV should include not only what candidates are or know, but also what they are interested in and what they want to become**.
 
-Like most open-source projects, the first use case was found in the company where the first contributors worked. Manfred is committed to the idea that **every person should keep control over their personal and professional data**. This means that they should be able to export their data from any platform in a machine-readable format with **a Model Definition to process that data efficiently**. This is how the MAC was born.
+Like most open-source projects, the first use case was found in a company where the first contributors worked. Manfred is committed to the idea that **every person should keep control over their personal and professional data**. This means that they should be able to export their data from any platform in a machine-readable format with **a Model Definition to process that data efficiently**. This is how the MAC was born.
 
 <div align="center">
   <img src='https://github.com/getmanfred/mac/blob/master/assets/readme/MAC_Structure.png?raw=true' width='600px'>
@@ -96,7 +96,7 @@ Right now the Council is formed by:
 
 ## ⚙️ How to contribute
 
-The MAC is an open-source project. We are committed to a fully transparent development process and appreciate highly any contributions. Whether you are helping us fix bugs, proposing new features, improving our documentation or spreading the word - we would love to have you as part of the MAC community.
+The MAC is an open-source project. We are committed to a fully transparent development process and appreciate highly any contributions. Whether you are helping us to fix bugs, proposing new features, improving our documentation or spreading the word - we would love to have you as part of the MAC community.
 
 Please refer to our [Contribution Guidelines](https://github.com/getmanfred/mac/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/getmanfred/mac/blob/master/code_of_conduct.md).
 
@@ -112,4 +112,4 @@ If you want to say thank you and/or support active development of the MAC:
 - Tweet about the project on your Twitter!
   - Tag [@getmanfred](https://twitter.com/getmanfred) and/or `#AwesomicCV`
 
-Thanks so much for your interest in growing the reach of the MAC!
+Thank you so much for your interest and help growing MAC!
